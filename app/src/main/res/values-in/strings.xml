@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Filmku V5</string>
+
+    <string name="movie_image_text_desc">movie image</string>
+    <string name="template_movie_title">Avenger: Infinity War</string>
+    <string name="template_movie_release_date">April 27, 2018</string>
+    <string name="template_movie_desc">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy…</string>
+    <string name="line_separator">line separator</string>
+    <string name="overview_text">Rangkuman :</string>
+
+    <string name="favorite_title">Favorit</string>
+    <string name="tab_title_movie">Film</string>
+    <string name="tab_title_tv_show">Acara TV</string>
+    <string name="detail_film_title">Rincian Film</string>
+
+    <string name="template_genre_title_text">Genre</string>
+    <string name="template_status_title_text">Status :</string>
+    <string name="template_status_text">Rilis</string>
+    <string name="template_score_title_text">Nilai :</string>
+    <string name="template_runtime_title_text">Durasi :</string>
+    <string name="template_score_text">8.3</string>
+    <string name="template_runtime_text">2h 29m</string>
+
+    <string name="default_language">id</string>
+    <string name="language_setting_text">Pengaturan Bahasa</string>
+    <string name="star_icon_text_desc">star icon</string>
+    <string name="template_episode_text">22 Episodes</string>
+    <string name="runtime_icon_text">runtime icon</string>
+    <string name="background_desc">background</string>
+    <string name="bottom_margin_desc">bottom margin</string>
+    <string name="reload_text">muat ulang</string>
+
+    <string name="add_to_favorite_text">Tambahkan ke Favorit</string>
+    <string name="success_remove_from_favorite_text">Film dihapus dari daftar favorit</string>
+    <string name="error_remove_from_favorite_text">gagal menghapus film dari favorit</string>
+    <string name="error_add_favorite_text">gagal menyimpan film ke menu favorit</string>
+    <string name="success_add_to_favorite_text">Film berhasil ke menu favorit</string>
+    <string name="home_tab_text">Beranda</string>
+    <string name="favorite_tab_text">Favorit</string>
+    <string name="alert_delete_title">Hapus Film</string>
+    <string name="yes_button_text">YA</string>
+    <string name="no_button_text">TIDAK</string>
+    <string name="delete_confirmation_message">Apakah anda yakin ingin menghapus film dari daftar favorit?</string>
+    <string name="message_empty_favorite_list">List favorit anda kosong.</string>
+    <string name="appwidget_text">Film Favorit</string>
+    <string name="search_title_text">cari</string>
+    <string name="search_hint_text">cari film</string>
+    <!--NOTIFICATION RESOURCES-->
+    <string name="notification_reminder_message">Movie catalogue merindukanmu!</string>
+    <string name="notification_error_title">Unknown</string>
+    <string name="notification_error_message">Gagal memuat data film</string>
+    <string name="notification_format_message">%s telah rilis hari ini\n</string>
+    <string name="notification_empty_title">Tidak ada film baru</string>
+    <string name="notification_empty">Tidak ada film baru rilis hari ini</string>
+    <string name="notification_setting_text">Hidup/Matikan notifikasi</string>
+    <string name="daily_reminder_title_text">Pengingat Harian</string>
+    <string name="daily_reminder_desc_text">Pengingat untuk kembali ke aplikasi setiap hari</string>
+    <string name="release_reminder_title_text">Pengingat Rilis Film</string>
+    <string name="release_reminder_desc_text">Pengingat menampilkan film yang rilis hari itu</string>
+    <string name="episode">Episode :</string>
+</resources>

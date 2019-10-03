@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Favorite Filmku</string>
+    <string name="template_movie_title">Arrow</string>
+    <string name="template_movie_release_date">April 27, 2018</string>
+    <string name="template_movie_desc">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy…</string>
+
+    <string name="template_genre_text">Action</string>
+    <string name="template_score_text">8.3</string>
+
+    <string name="star_icon_text_desc">star icon</string>
+    <string name="background_desc">background</string>
+    <string name="release_date">Release Date :</string>
+    <string name="genre">Genre :</string>
+    <string name="score">Score :</string>
+    <string name="_1h_40m">1h 40m</string>
+    <string name="duration">Duration :</string>
+    <string name="overview">Overview :</string>
+</resources>

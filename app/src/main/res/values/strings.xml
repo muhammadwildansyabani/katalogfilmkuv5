@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Katalog Filmku V5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="movie_image_text_desc">movie image</string>
+    <string name="template_movie_title">Arrow</string>
+    <string name="template_movie_release_date">April 27, 2018</string>
+    <string name="template_movie_desc">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy…</string>
+    <string name="line_separator">line separator</string>
+    <string name="overview_text">Overview :</string>
+
+    <string name="favorite_title">Favorite</string>
+    <string name="tab_title_movie">Movies</string>
+    <string name="tab_title_tv_show">Tv Shows</string>
+    <string name="detail_film_title">Film Detail</string>
+
+    <string name="template_genre_title_text">Genre</string>
+    <string name="template_status_title_text">Status :</string>
+    <string name="template_status_text">Released</string>
+    <string name="template_score_title_text">Score :</string>
+    <string name="template_runtime_title_text">Runtime :</string>
+    <string name="template_score_text">8.3</string>
+    <string name="template_runtime_text">2h 29m</string>
+
+    <string name="default_language">en-US</string>
+    <string name="language_setting_text">Language Setting</string>
+    <string name="star_icon_text_desc">star icon</string>
+    <string name="template_episode_text">22 Episodes</string>
+    <string name="runtime_icon_text">runtime icon</string>
+    <string name="background_desc">background</string>
+    <string name="bottom_margin_desc">bottom margin</string>
+    <string name="reload_text">reload</string>
+
+    <string name="add_to_favorite_text">Add to Favorite</string>
+    <string name="success_remove_from_favorite_text">Film Removed from Favorite</string>
+    <string name="error_remove_from_favorite_text">Error Removed film from Favorite</string>
+    <string name="error_add_favorite_text">Failed add to favorite</string>
+    <string name="success_add_to_favorite_text">Success add to favorite</string>
+    <string name="home_tab_text">Home</string>
+    <string name="favorite_tab_text">Favorite</string>
+    <string name="alert_delete_title">Delete Film</string>
+    <string name="yes_button_text">YES</string>
+    <string name="no_button_text">NO</string>
+    <string name="delete_confirmation_message">Are you sure to delete film from favorite list?</string>
+    <string name="message_empty_favorite_list">Your favorite list is empty</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="search_title_text">search</string>
+    <string name="search_hint_text">Search film</string>
+    <!--NOTIFICATION RESOURCES-->
+    <string name="notification_reminder_message">Movie catalogue missing you!</string>
+    <string name="notification_error_title">Unknown</string>
+    <string name="notification_error_message">Failed to retrieve film data</string>
+    <string name="notification_format_message">%s has been released today\n</string>
+    <string name="notification_empty_title">No new film</string>
+    <string name="notification_empty">No new film released today</string>
+    <string name="notification_setting_text">Turn Reminder ON/OFF</string>
+    <string name="daily_reminder_title_text">Daily Reminder</string>
+    <string name="daily_reminder_desc_text">Reminder for return to app everyday</string>
+    <string name="release_reminder_title_text">Release Reminder</string>
+    <string name="release_reminder_desc_text">Reminder showing the movies that released today</string>
+    <string name="add_widget">Add widget</string>
+    <string name="episode">Episode :</string>
+</resources>
